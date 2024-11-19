@@ -80,7 +80,7 @@ This project is powered by **Tkinter** for the GUI interface and **Pillow** for 
 
 ## Examples
 ### Pattern Output
-![Pattern Example](example_pattern.png)
+![Pattern Example](Screenshot.png)
 
 ---
 
